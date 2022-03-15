@@ -1,5 +1,5 @@
 # WordAI
-A game made for the October repl.it game Jam in one which one tries to guess a word based on which words an "AI" algorithm (word embeddings) finds most similar to those words.
+A game made for the October repl.it game Jam in one which one tries to guess a word based on which words an "AI" algorithm (word embeddings) finds most similar to that word.
 
 # Installation
 Either clone this repo onto your computer, or simply [play the game on repl.it](https://replit.com/@hentisch/Word-AI?v=1)
